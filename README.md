@@ -1,1 +1,1 @@
-![dashuai's github stats](https://github-readme-stats.vercel.app/api?username=chenlishuai&theme=calm&show_icons=true)
+![dashuai's github stats](https://github-readme-stats.vercel.app/api?username=chenlishuai&theme=vue&show_icons=true)
